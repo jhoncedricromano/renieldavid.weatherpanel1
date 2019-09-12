@@ -1,0 +1,20 @@
+C:\Users\VGD 14\Desktop\yayay\renieldavid.weather panel\renieldavid.weather panel\bin\Debug\renieldavid.weather panel.exe.config
+C:\Users\VGD 14\Desktop\yayay\renieldavid.weather panel\renieldavid.weather panel\bin\Debug\renieldavid.weather panel.exe
+C:\Users\VGD 14\Desktop\yayay\renieldavid.weather panel\renieldavid.weather panel\bin\Debug\renieldavid.weather panel.pdb
+C:\Users\VGD 14\Desktop\yayay\renieldavid.weather panel\renieldavid.weather panel\bin\Debug\Newtonsoft.Json.dll
+C:\Users\VGD 14\Desktop\yayay\renieldavid.weather panel\renieldavid.weather panel\bin\Debug\RestSharp.dll
+C:\Users\VGD 14\Desktop\yayay\renieldavid.weather panel\renieldavid.weather panel\bin\Debug\Newtonsoft.Json.xml
+C:\Users\VGD 14\Desktop\yayay\renieldavid.weather panel\renieldavid.weather panel\bin\Debug\RestSharp.xml
+C:\Users\VGD 14\Desktop\yayay\renieldavid.weather panel\renieldavid.weather panel\obj\Debug\renieldavid.weather panel.csprojAssemblyReference.cache
+C:\Users\VGD 14\Desktop\yayay\renieldavid.weather panel\renieldavid.weather panel\obj\Debug\MainWindow.g.cs
+C:\Users\VGD 14\Desktop\yayay\renieldavid.weather panel\renieldavid.weather panel\obj\Debug\App.g.cs
+C:\Users\VGD 14\Desktop\yayay\renieldavid.weather panel\renieldavid.weather panel\obj\Debug\renieldavid.weather panel_MarkupCompile.cache
+C:\Users\VGD 14\Desktop\yayay\renieldavid.weather panel\renieldavid.weather panel\obj\Debug\renieldavid.weather panel_MarkupCompile.lref
+C:\Users\VGD 14\Desktop\yayay\renieldavid.weather panel\renieldavid.weather panel\obj\Debug\MainWindow.baml
+C:\Users\VGD 14\Desktop\yayay\renieldavid.weather panel\renieldavid.weather panel\obj\Debug\renieldavid.weather panel.g.resources
+C:\Users\VGD 14\Desktop\yayay\renieldavid.weather panel\renieldavid.weather panel\obj\Debug\renieldavid.weather_panel.Properties.Resources.resources
+C:\Users\VGD 14\Desktop\yayay\renieldavid.weather panel\renieldavid.weather panel\obj\Debug\renieldavid.weather panel.csproj.GenerateResource.cache
+C:\Users\VGD 14\Desktop\yayay\renieldavid.weather panel\renieldavid.weather panel\obj\Debug\renieldavid.weather panel.csproj.CoreCompileInputs.cache
+C:\Users\VGD 14\Desktop\yayay\renieldavid.weather panel\renieldavid.weather panel\obj\Debug\renieldavid.weather panel.csproj.CopyComplete
+C:\Users\VGD 14\Desktop\yayay\renieldavid.weather panel\renieldavid.weather panel\obj\Debug\renieldavid.weather panel.exe
+C:\Users\VGD 14\Desktop\yayay\renieldavid.weather panel\renieldavid.weather panel\obj\Debug\renieldavid.weather panel.pdb
